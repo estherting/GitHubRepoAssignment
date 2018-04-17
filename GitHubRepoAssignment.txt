@@ -1,0 +1,6 @@
+Terminal- mkdir GitHubRepoAssignment
+Terminal- GitHubRepoAssignment init
+Create a readme.md file
+Terminal- git status
+Terminal- git add .
+Terminal- git commit -m "initial commit added README file"
